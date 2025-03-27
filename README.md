@@ -5,7 +5,7 @@ A project for detecting changes between satellite images using deep learning tec
 ## Overview
 
 This project uses deep learning models, specifically a pre-trained U-Net architecture, to detect changes between satellite images taken at different times. It can identify new structures, modifications, or other changes in satellite imagery.
-
+ 
 ## Features
 
 - Change detection between before/after satellite images 
