@@ -8,7 +8,7 @@ This project uses deep learning models, specifically a pre-trained U-Net archite
 
 ## Features
 
-- Change detection between before/after satellite images
+- Change detection between before/after satellite images 
 - Implementation using U-Net architecture with pre-trained ResNet34 encoder
 - Autoencoder implementation for additional analysis (in progress)
 - Visualization of detected changes
